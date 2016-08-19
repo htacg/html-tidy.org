@@ -17,5 +17,5 @@ issue a github [pull request against this web site][1], and we will be sure to
 add it. You will want to add a file to [this directory][2].
 
 
-[1]: https://github.com/htacg/tidy-html5/tree/gh-pages
-[2]: https://github.com/htacg/tidy-html5/blob/gh-pages/plus/_posts/
+[1]: https://github.com/htacg/html-tidy.org/tree/gh-pages
+[2]: https://github.com/htacg/html-tidy.org/tree/gh-pages/plus/_posts
