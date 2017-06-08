@@ -17,7 +17,7 @@ heartfelt "thank you" to everyone who made **Tidy** possible.
 - Charles Reitzel, long time SourceForge maintainer.
 - Björn Höhrmann, long time SourceForge maintainer.
 - Michael Smith, Github W3C maintainer.
-- HTACG members and contributors, who are working hard to bring you a new,
+- HTACG members and [contributors][5], who are working hard to bring you a new,
   stable **Tidy**.
 
 Are we missing someone? Issue a pull request against the `gh-pages` branch of
@@ -30,3 +30,4 @@ Dave Raggett also maintains a long list of acknowledgements at [his page][2].
 [2]: http://www.w3.org/People/Raggett/tidy/#acks
 [3]: https://github.com/htacg/tidy-html5/blob/gh-pages/index/_posts/1970-05-01-acknowledgements.md
 [4]: http://www.w3.org/People/Raggett/
+[5]: https://github.com/htacg/tidy-html5/graphs/contributors
