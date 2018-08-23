@@ -19,7 +19,7 @@ Everything you need to know about Jekyll can be found on
 About Github and HTACG Pages
 ----------------------------
 
-The HTAGC group main project page is served from files located in
+The HTACG group main project page is served from files located in
 [https://github.com/htacg/htacg.github.io](https://github.com/htacg/htacg.github.io). It
 can be reached from [http://www.htacg.org](http://www.htacg.org) or 
 [http://htacg.github.io](http://htacg.github.io). The latter is the standard means of
