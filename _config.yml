@@ -6,7 +6,7 @@ safe: true
 
 
 ### site serving configuration ###
-baseurl: http://www.html-tidy.org
+baseurl: https://www.html-tidy.org
 exclude: [CNAME, README.md, LICENSE.txt .gitignore]
 #permalink: / ## disables post output
 timezone: null
