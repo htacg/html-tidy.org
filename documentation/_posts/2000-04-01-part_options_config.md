@@ -18,6 +18,10 @@ To get a list of all configuration settings, use:
 
 `tidy -help-config`
 
+To see the default configuration values, use:
+
+`tidy -export-default-config`
+
 To read the help output a page at time, pipe it to a pager, e.g.,:
 
 ~~~
