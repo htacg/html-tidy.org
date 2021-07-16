@@ -11,7 +11,7 @@ fa-icon:  intro
 ## Documentation Introduction
 
 On this page you can refer to nearly everything you need to know about **HTML
-Tidy**. If you’re on Mac OS X, Linux, or UNIX you can also use `man tidy` and
+Tidy**. If you’re on macOS, Linux, or UNIX you can also use `man tidy` and
 read the purpose-built documentation for the version of **Tidy** that you have
 installed.
 
