@@ -1,6 +1,6 @@
 ---
 title:    "PHP Tidy"
-bg:       "#00dd00"
+bg:       "#00cc00"
 color:    black    
 style:    left
 fa-icon:  lightbulb-o
