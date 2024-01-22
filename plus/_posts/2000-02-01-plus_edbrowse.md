@@ -28,5 +28,5 @@ internet.
 Visit its [GitHub repository][2] for the latest and greatest.
 
 
- [1]: http://edbroswe.org
+ [1]: http://edbrowse.org
  [2]: https://github.com/CMB/edbrowse
